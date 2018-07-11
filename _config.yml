@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: My First Blog Entry
 header-img: img/home-bg.png
 email: tahseenfatima1986@gmail.com
 copyright_name: tahseen447
 description: > # this means to ignore newlines until "baseurl:"
-  
+  book log
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tahseen447
