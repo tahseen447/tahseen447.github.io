@@ -1,15 +1,14 @@
 # Site settings
-title: My First Blog Entry
+author: Tahseen Siddiqui
+title: Tahseen Siddiqui 
 header-img: img/home-bg.png
 email: tahseenfatima1986@gmail.com
-copyright_name: tahseen447
+copyright_name: Tahseen Siddiqui
 description: > # this means to ignore newlines until "baseurl:"
-  book log
+  Woman, coder, mother, learner.... 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  tahseen447
-learn_profile: tahseen447
-email_username: tahseenfatima1986@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -19,5 +18,3 @@ paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 gems: [jekyll-paginate, jekyll-feed]
-
-theme: jekyll-theme-minimal
