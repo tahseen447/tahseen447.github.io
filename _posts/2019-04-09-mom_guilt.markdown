@@ -1,0 +1,31 @@
+---
+layout: post
+title:      "Mom Guilt...."
+date:       2019-04-09 17:33:36 +0000
+permalink:  mom_guilt
+---
+
+
+<!-- wp:paragraph -->
+<p>So, this morning I got a call from a recruiter, and I regret saying yes when she asked "if this was a good time?" IT WAS NOT. I was getting ready to drop off my kids to school and on the way to school is our bonding time. We talk about all the trucks on the road, if there are clouds covering so my daughter can guess if it is going to rain soon, we sing along Disney songs, I kiss them good bye and I assure them that I will come and pick them up in time soon. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But not today.... I don't know why I dint just say "No, it's not. Could you please call back?" I just started my job search. And believe me I'm everywhere, I have been applying to jobs anywhere I find them. So there's that hesitation that they might not call back or if its going to effect my resume if they knew I have kids and they are and will be m priority forever. I don't know. But regardless of anything I continued the call and spoke to her throughout my morning till I came back home. It is all a blur to me right now and I am thinking what just happened? I let those precious moments I might have with my kids just pass by me. I will make it up to them tonight and we can do some together time. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>But I am thankful that I am at least able to take a step back and recognize those feelings and do something about it. I am willing to be Mindful about myself and my priorities. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":null} -->
+<p>Here's the process I followed when I started job search. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Update your resume with help from your career coach. </li><li>Update your github profile, linkedin profile, if any blogs or portfolio you want to make.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Then its a matter of doing research and checking what's out there and what they're looking for. I will say I am anxious. There are so many unknowns and it does make me uncomfortable. Questions about the gap years, why did you chose full stack development? But also the whole interviewing process. Wish me luck I need a lot of it.</p>
+<!-- /wp:paragraph -->
